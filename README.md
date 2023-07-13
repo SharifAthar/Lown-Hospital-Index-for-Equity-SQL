@@ -1,1 +1,1 @@
-# Lown-Hospital-Index-for-Equity-SQL
+# Lown Hospital Index for Equity Project

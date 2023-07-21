@@ -13,7 +13,7 @@
 The objective of this project is to perform a comprehensive analysis through MySQL of the Lown Hospital Index for Equity 2022 dataset and create a visually appealing and informative Tableau dashboard that showcase my findings. The analysis will focus on key metrics related to equity in healthcare, including Pay Equity, Community Benefit, and Inclusivity. By exploring these metrics, the project aims to gain insights into the extent of fairness, inclusiveness, and community engagement within hospitals.
 
 ## Steps Performed 
-1. Downloaded the datasat and loaded it into Excel. Cleaned the dataset and when I felt it was ready, I converted the file into JSON to export it to MySQL
+1. Downloaded the dataset and loaded it into Excel. Cleaned the dataset and when I felt it was ready, I converted the file into JSON to export it to MySQL
 
 2. Utilized SQL analysis techniques to extract and organize relevant data from the Lown Hospital Index for Equity 2022 dataset.
    
